@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\libs\opencsv-custom.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="a5311f113d63cd31c692b1eafda8714af16fec06">
+        <dex dex="C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\build\intermediates\pre-dexed\debug\opencsv-custom_c76cc0fccb022bdebe2980f6b5989c9f5b0d9ddc.jar" />
+    </item>
+
+</items>

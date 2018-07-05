@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.BIND_INPUT_METHOD
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:12:22-68
+application
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:14:5-38:19
+	android:label
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:16:9-41
+	android:debuggable
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:16:42-67
+	android:icon
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:15:9-45
+activity#bp.iemanager.IEManagerActivity
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:19:46-82
+	android:label
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:18:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:22:27-74
+activity#bp.iemanager.exporter.ExporterActivity
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:25:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:26:13-66
+activity#bp.iemanager.importer.ImporterActivity
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:30:19-72
+activity#bp.iemanager.importer.SynchronizerActivity
+ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:35:13-41
+	android:name
+		ADDED from C:\Users\Admin\Desktop\Hoang\ProjectDemo\ContactsManager\app\src\main\AndroidManifest.xml:34:19-76

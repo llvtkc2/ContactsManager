@@ -1,0 +1,184 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitattributes
+* .gitignore
+* doc\
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\bp\
+* doc\bp\iemanager\
+* doc\bp\iemanager\IEManagerActivity.html
+* doc\bp\iemanager\MessageObject.html
+* doc\bp\iemanager\StringUtils.html
+* doc\bp\iemanager\class-use\
+* doc\bp\iemanager\class-use\IEManagerActivity.html
+* doc\bp\iemanager\class-use\MessageObject.html
+* doc\bp\iemanager\class-use\StringUtils.html
+* doc\bp\iemanager\csvcontact\
+* doc\bp\iemanager\csvcontact\CsvContact.html
+* doc\bp\iemanager\csvcontact\OutlookConstants.html
+* doc\bp\iemanager\csvcontact\ThunderbirdConstants.html
+* doc\bp\iemanager\csvcontact\class-use\
+* doc\bp\iemanager\csvcontact\class-use\CsvContact.html
+* doc\bp\iemanager\csvcontact\class-use\OutlookConstants.html
+* doc\bp\iemanager\csvcontact\class-use\ThunderbirdConstants.html
+* doc\bp\iemanager\csvcontact\package-frame.html
+* doc\bp\iemanager\csvcontact\package-summary.html
+* doc\bp\iemanager\csvcontact\package-tree.html
+* doc\bp\iemanager\csvcontact\package-use.html
+* doc\bp\iemanager\exporter\
+* doc\bp\iemanager\exporter\Exporter.html
+* doc\bp\iemanager\exporter\ExporterActivity.html
+* doc\bp\iemanager\exporter\MyFileWriter.html
+* doc\bp\iemanager\exporter\OutlookExporter.html
+* doc\bp\iemanager\exporter\ThunderbirdExporter.html
+* doc\bp\iemanager\exporter\class-use\
+* doc\bp\iemanager\exporter\class-use\Exporter.html
+* doc\bp\iemanager\exporter\class-use\ExporterActivity.html
+* doc\bp\iemanager\exporter\class-use\MyFileWriter.html
+* doc\bp\iemanager\exporter\class-use\OutlookExporter.html
+* doc\bp\iemanager\exporter\class-use\ThunderbirdExporter.html
+* doc\bp\iemanager\exporter\package-frame.html
+* doc\bp\iemanager\exporter\package-summary.html
+* doc\bp\iemanager\exporter\package-tree.html
+* doc\bp\iemanager\exporter\package-use.html
+* doc\bp\iemanager\importer\
+* doc\bp\iemanager\importer\ImportCostants.html
+* doc\bp\iemanager\importer\Importer.html
+* doc\bp\iemanager\importer\ImporterActivity.html
+* doc\bp\iemanager\importer\MatchType.html
+* doc\bp\iemanager\importer\MatchValues.html
+* doc\bp\iemanager\importer\MoreFieldsComparator.html
+* doc\bp\iemanager\importer\OutlookImporter.html
+* doc\bp\iemanager\importer\PossibleEqualContacts.html
+* doc\bp\iemanager\importer\SynchronizerActivity.html
+* doc\bp\iemanager\importer\ThunderbirdImporter.html
+* doc\bp\iemanager\importer\UpdateOutlookCsvItems.html
+* doc\bp\iemanager\importer\UpdateThunderbirdCsvItems.html
+* doc\bp\iemanager\importer\UserSelectedOptions.html
+* doc\bp\iemanager\importer\class-use\
+* doc\bp\iemanager\importer\class-use\ImportCostants.html
+* doc\bp\iemanager\importer\class-use\Importer.html
+* doc\bp\iemanager\importer\class-use\ImporterActivity.html
+* doc\bp\iemanager\importer\class-use\MatchType.html
+* doc\bp\iemanager\importer\class-use\MatchValues.html
+* doc\bp\iemanager\importer\class-use\MoreFieldsComparator.html
+* doc\bp\iemanager\importer\class-use\OutlookImporter.html
+* doc\bp\iemanager\importer\class-use\PossibleEqualContacts.html
+* doc\bp\iemanager\importer\class-use\SynchronizerActivity.html
+* doc\bp\iemanager\importer\class-use\ThunderbirdImporter.html
+* doc\bp\iemanager\importer\class-use\UpdateOutlookCsvItems.html
+* doc\bp\iemanager\importer\class-use\UpdateThunderbirdCsvItems.html
+* doc\bp\iemanager\importer\class-use\UserSelectedOptions.html
+* doc\bp\iemanager\importer\package-frame.html
+* doc\bp\iemanager\importer\package-summary.html
+* doc\bp\iemanager\importer\package-tree.html
+* doc\bp\iemanager\importer\package-use.html
+* doc\bp\iemanager\package-frame.html
+* doc\bp\iemanager\package-summary.html
+* doc\bp\iemanager\package-tree.html
+* doc\bp\iemanager\package-use.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\index-1.html
+* doc\index-files\index-10.html
+* doc\index-files\index-11.html
+* doc\index-files\index-12.html
+* doc\index-files\index-13.html
+* doc\index-files\index-14.html
+* doc\index-files\index-15.html
+* doc\index-files\index-16.html
+* doc\index-files\index-17.html
+* doc\index-files\index-18.html
+* doc\index-files\index-19.html
+* doc\index-files\index-2.html
+* doc\index-files\index-20.html
+* doc\index-files\index-21.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index-files\index-7.html
+* doc\index-files\index-8.html
+* doc\index-files\index-9.html
+* doc\index.html
+* doc\overview-frame.html
+* doc\overview-summary.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\resources\
+* doc\resources\background.gif
+* doc\resources\tab.gif
+* doc\resources\titlebar.gif
+* doc\resources\titlebar_end.gif
+* doc\serialized-form.html
+* doc\sk\
+* doc\sk\kasala\
+* doc\sk\kasala\viliam\
+* doc\sk\kasala\viliam\bakalarka\
+* doc\sk\kasala\viliam\bakalarka\R.attr.html
+* doc\sk\kasala\viliam\bakalarka\R.color.html
+* doc\sk\kasala\viliam\bakalarka\R.drawable.html
+* doc\sk\kasala\viliam\bakalarka\R.html
+* doc\sk\kasala\viliam\bakalarka\R.id.html
+* doc\sk\kasala\viliam\bakalarka\R.layout.html
+* doc\sk\kasala\viliam\bakalarka\R.raw.html
+* doc\sk\kasala\viliam\bakalarka\R.string.html
+* doc\sk\kasala\viliam\bakalarka\R.style.html
+* doc\sk\kasala\viliam\bakalarka\class-use\
+* doc\sk\kasala\viliam\bakalarka\class-use\R.attr.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.color.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.drawable.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.id.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.layout.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.raw.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.string.html
+* doc\sk\kasala\viliam\bakalarka\class-use\R.style.html
+* doc\sk\kasala\viliam\bakalarka\package-frame.html
+* doc\sk\kasala\viliam\bakalarka\package-summary.html
+* doc\sk\kasala\viliam\bakalarka\package-tree.html
+* doc\sk\kasala\viliam\bakalarka\package-use.html
+* doc\stylesheet.css
+* mnb v.ucls
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\bp\iemanager\ContactManagerActivity.essModel => app\src\main\resources\bp\iemanager\ContactManagerActivity.essModel
+* src\bp\iemanager\exporter\exporterClassDiagram.PNG => app\src\main\resources\bp\iemanager\exporter\exporterClassDiagram.PNG
+* src\bp\iemanager\exporter\exporterClassDiagram.ucls => app\src\main\resources\bp\iemanager\exporter\exporterClassDiagram.ucls
+* src\bp\iemanager\importer\importerClassDiagram.PNG => app\src\main\resources\bp\iemanager\importer\importerClassDiagram.PNG
+* src\bp\iemanager\importer\importerClassDiagram.ucls => app\src\main\resources\bp\iemanager\importer\importerClassDiagram.ucls
+* template_outlook.CSV => template_outlook.csv
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
